@@ -1,2 +1,3 @@
 # hello-world
-first repo
+
+yes, barely getting my bearings lol
