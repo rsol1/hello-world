@@ -1,0 +1,25 @@
+*,
+*:before,
+*:after {box-sizing: border-box;}
+
+.new-card-form{
+	border:1px solid blue;
+}
+
+.new-card-concept{
+	border:1px solid black;
+}
+.cards {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+.card {
+    display: inline-block;
+    width: 250px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding:10px;
+    list-style-type: none;
+    background-color: #cde;
+}
